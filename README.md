@@ -1,2 +1,2 @@
 # TDScaling
-We plan to make the code and dataset publicly available upon acceptance.
+We plan to release the code and dataset after the review process is complete.
